@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+*{
+    font-family: 'outfit';
+}
+
+h1, h2 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+}
+
+p{
+    font-size: 16px;
+}
+
+table{
+    text-align: left;
+}
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
